@@ -1,0 +1,25 @@
+Registered FileName :     jkljkj 
+DATE                :     jklj 
+IRLA/REGT NO        :     jklj 
+NAME                :     jkljj 
+RANK                :     jkljkl 
+Coy                 :     B COY 
+UNIT/HQ             :     004 BN BSF 
+GENDER              :     male 
+AGE                 :     kkk 
+BLOOD GROUP         :     O- 
+PULSE RATE          :     kk 
+BLOOD PRESSURE      :     jkljk 
+------------------------------------ 
+MEDICAL CATEGORY    :      
+------------------------------------ 
+SYMPTOMS/PROBLEM    :     kkjkj 
+------------------------------------ 
+MEDICAL HISTORY     :     kjjj 
+------------------------------------ 
+TREATMENT GIVEN     :     jjk 
+------------------------------------ 
+REMARKS             :     jkljk 
+------------------------------------ 
+DOCTOR/FS/NA NAME   :     kjkjk 
+************************************************************** 

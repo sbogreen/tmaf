@@ -1,0 +1,25 @@
+Registered FileName :     Devang 
+DATE                :     1/11/17 
+IRLA/REGT NO        :     Devang007 
+NAME                :     Devang  
+RANK                :     1 
+Coy                 :     C COY 
+UNIT/HQ             :     009 BN BSF 
+GENDER              :     male 
+AGE                 :     24 
+BLOOD GROUP         :     Ab+ 
+PULSE RATE          :     155 
+BLOOD PRESSURE      :     120/80 
+------------------------------------ 
+MEDICAL CATEGORY    :     Normal 
+------------------------------------ 
+SYMPTOMS/PROBLEM    :     Na 
+------------------------------------ 
+MEDICAL HISTORY     :     Na 
+------------------------------------ 
+TREATMENT GIVEN     :     Na 
+------------------------------------ 
+REMARKS             :     Na 
+------------------------------------ 
+DOCTOR/FS/NA NAME   :     Na 
+************************************************************** 

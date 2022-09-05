@@ -1,0 +1,25 @@
+Registered FileName :     jhjkhj 
+DATE                :     hjj 
+IRLA/REGT NO        :     jhj 
+NAME                :     hj 
+RANK                :     hj 
+Coy                 :     C COY 
+UNIT/HQ             :     001 BN BSF 
+GENDER              :     male 
+AGE                 :     hjh 
+BLOOD GROUP         :      
+PULSE RATE          :     hj 
+BLOOD PRESSURE      :     hjh 
+------------------------------------ 
+MEDICAL CATEGORY    :      
+------------------------------------ 
+SYMPTOMS/PROBLEM    :     h 
+------------------------------------ 
+MEDICAL HISTORY     :     kh 
+------------------------------------ 
+TREATMENT GIVEN     :     jhh 
+------------------------------------ 
+REMARKS             :     jh 
+------------------------------------ 
+DOCTOR/FS/NA NAME   :     jhj 
+************************************************************** 

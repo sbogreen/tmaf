@@ -1,0 +1,40 @@
+Registered FileName :     aman 
+DATE                :     30-10-2017 
+Name of Patient     :     aman k  
+Name of Doctor/P-cist:     skljf 
+------------------------------------ 
+Ask Your Patient    :     klkjkk 
+------------------------------------ 
+Diagnosis          :     na 
+------------------------------------ 
+Advice for Tests     :     na 
+------------------------------------ 
+Prescription        :     na 
+------------------------------------ 
+Advice              :     na 
+************************************************************** 
+Registered FileName :     PT-aman.txt 
+DATE                :     30-10-2017 
+IRLA/REGT NO        :     465416548465 
+NAME                :     aman k 
+RANK                :     15465 
+Coy                 :     B COY 
+UNIT/HQ             :     004 BN BSF 
+GENDER              :     male 
+AGE                 :     36 
+BLOOD GROUP         :     0+ 
+PULSE RATE          :     75 
+BLOOD PRESSURE      :     120/80 
+------------------------------------ 
+MEDICAL CATEGORY    :     kjkkj 
+------------------------------------ 
+SYMPTOMS/PROBLEM    :     jkhjk 
+------------------------------------ 
+MEDICAL HISTORY     :     hjkhjk 
+------------------------------------ 
+TREATMENT GIVEN     :     hjk 
+------------------------------------ 
+REMARKS             :     hjkhjk 
+------------------------------------ 
+DOCTOR/FS/NA NAME   :     jhjkh 
+************************************************************** 

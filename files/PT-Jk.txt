@@ -1,0 +1,11 @@
+Registered FileName :     Jk 
+DATE                :     25 
+Name of Patient     :     Hhjj 
+Name of Doctor/P-cist:     Ghhjj 
+------------------------------------ 
+Answer Your Doctor  :     Guu 
+------------------------------------ 
+Ask Your Doctor     :     Fty 
+------------------------------------ 
+Remarks             :     Ghy 
+************************************************************** 

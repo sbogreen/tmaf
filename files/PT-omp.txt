@@ -1,0 +1,25 @@
+Registered FileName :     omp 
+DATE                :     06-11-2017 
+IRLA/REGT NO        :     050092051 
+NAME                :     omp 
+RANK                :     skldkkjk 
+Coy                 :     C COY 
+UNIT/HQ             :     005 BN BSF 
+GENDER              :     male 
+AGE                 :     29 
+BLOOD GROUP         :     O- 
+PULSE RATE          :     1 
+BLOOD PRESSURE      :     1 
+------------------------------------ 
+MEDICAL CATEGORY    :      
+------------------------------------ 
+SYMPTOMS/PROBLEM    :     jkjhjhjhjjkh 
+------------------------------------ 
+MEDICAL HISTORY     :     jkhjkhjhjhh 
+------------------------------------ 
+TREATMENT GIVEN     :     hjhhhjkjkjh 
+------------------------------------ 
+REMARKS             :     hjhjhhjjk 
+------------------------------------ 
+DOCTOR/FS/NA NAME   :     hjkhhhjh 
+************************************************************** 
